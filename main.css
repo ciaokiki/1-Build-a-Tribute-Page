@@ -40,8 +40,8 @@ section#timeline ul {
 
 .img-border {
     padding: 1px;
-    border: 1px solid #021a40;
-    background-color: #a2aaa0;
+    border: 3px solid pink;
+    background-color: pink;
 }
 
 .content {
@@ -56,7 +56,7 @@ section#timeline ul {
     margin-bottom: 30px;
     margin-left: 50px;
     padding-left: 15px;
-    border-left: 3px solid #021a40;
+    border-left: 3px solid pink;
 }
 .blockquote em {
     padding-left: 25px;
